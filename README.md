@@ -1,8 +1,7 @@
-[README.md](https://github.com/user-attachments/files/22184928/README.md)
 # MERN Online Store
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Yaoghost/ONLINE-STORE-MERN)
 
-A full-stack online store application built with the MERN stack (MongoDB, Express.js, React, Node.js). This project demonstrates a complete CRUD (Create, Read, Update, Delete) implementation for managing products. The frontend is a modern single-page application built with Vite and React, styled with Chakra UI, and uses Zustand for simple state management.
+
+A full-stack online store application built with the MERN stack (MongoDB, Express.js, React, Node.js). This project demonstrates a complete CRUD (Create, Read, Update, Delete) implementation for managing products. The frontend is a modern two-page application built with Vite and React, styled with Chakra UI, and uses Zustand for simple state management.
 
 ## Features
 
@@ -11,7 +10,7 @@ A full-stack online store application built with the MERN stack (MongoDB, Expres
 - **RESTful API:** A backend API built with Node.js, Express.js, and Mongoose for interacting with the MongoDB database.
 - **Client-Side State Management:** Efficient and lightweight state management using Zustand.
 - **Light/Dark Mode:** Theme toggling for user preference.
-- **Seamless Navigation:** Built as a single-page application using React Router.
+- **Seamless Navigation:** Built as a two-page application using React Router.
 
 ## Tech Stack
 
